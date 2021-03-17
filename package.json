@@ -48,5 +48,8 @@
   },
   "files": [
     ".releaserc.json"
-  ]
+  ],
+  "publishConfig": {
+    "access": "public"
+  }
 }
