@@ -32,11 +32,11 @@
 2. Install this package:
 
   ```sh
-  npm install --save-dev zaflun/semantic-release
+  npm install --save-dev @zaflun/semantic-release
   ```
 
   ```sh
-  yarn add -D zaflun/semantic-release
+  yarn add -D @zaflun/semantic-release
   ```
 
 3. Add a semantic release config in your `package.json` file:
