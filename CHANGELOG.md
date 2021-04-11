@@ -1,3 +1,5 @@
+## [1.0.7](https://github.com/zaflun/semantic-release/compare/1.0.6...1.0.7) (2021-04-11)
+
 ## [1.0.6](https://github.com/zaflun/semantic-release/compare/1.0.5...1.0.6) (2021-04-07)
 
 ## [1.0.5](https://github.com/zaflun/semantic-release/compare/1.0.4...1.0.5) (2021-03-31)
